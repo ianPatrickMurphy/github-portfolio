@@ -1,3 +1,3 @@
-# ianpatrickmurphy-portfolio
+# IanPatrickMurphy Portfolio
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-am1z75)
+[A React-based portfolio hub for my various public projects.](https://react-am1z75.stackblitz.io/)
